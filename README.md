@@ -1,0 +1,1 @@
+This is suna_kujira's first git project!
